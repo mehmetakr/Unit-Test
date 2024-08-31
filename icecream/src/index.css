@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(55, 164, 207) !important;
+  color: black !important  ;
+}
+
+.terms-box {
+  position: relative;
+
+  /* yazının 2. satıra kaymasını engellemek için nowrap kullanırız.. */
+  white-space: nowrap;
+  color: white;
+}
+
+.terms-box p {
+  position: absolute;
+  background-color: white;
+  padding: 5px;
+  top: -35px;
+  border-radius: 40px;
+  color: black;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.top-card{
+
+  border: 2px solid white;
+ padding: 20px;
+border-radius: 20px;
+cursor: pointer;
+
+
+}
+
+.top-card:has(input:checked){
+
+
+
+  box-shadow: 0 0 15px white;
+  border: 1px solid white;
+}
+
+.top-card input{
+
+
+
+  display: none;
+}

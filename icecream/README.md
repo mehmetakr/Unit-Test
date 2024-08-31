@@ -36,7 +36,7 @@
  
  <h1>Proje Gif</h1>
 
-<img src="/public/images/icecream.gif">
+<img src="./public/images/icecream.gif">
 
 
   ## Fireevent

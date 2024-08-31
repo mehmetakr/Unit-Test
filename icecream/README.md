@@ -1,4 +1,7 @@
 
+# ICE CREAM
+
+ Unit test kullanılarak bir proje yapılmıştır.
 
 # KÜTÜPHANELERİN SÜRÜMÜ
 
@@ -26,6 +29,14 @@
 
 
  - Unit test yazarken kullanıcının etkileşimi tetiklemenın 2 yolu vardır.
+
+
+   
+   # PROJE GİF 
+ 
+ <h1>Proje Gif</h1>
+
+<img src="/public/images/icecream.gif">
 
 
   ## Fireevent
